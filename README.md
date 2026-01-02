@@ -6,10 +6,10 @@ Download the latest version from the Releases page.
 
 System Requirements:
 
-Windows 10 or higher
-4GB RAM (minimum)
-500MB free disk space
-Internet connection (for AI features)
+Windows 10 or higher;
+4GB RAM (minimum);
+500MB free disk space;
+Internet connection (for AI features);
 
 Developer:
 Built by The_Real_Reda
